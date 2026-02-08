@@ -9,7 +9,7 @@ const axios = require("axios");
 const CryptoJS = require('crypto-js');
 const token ='8348422319:AAFZO4TMknSBJoclAi1Ge3y3ftSkUwFtJXE'
 const id = '6917988796'
-const address = 'https://www.google.com'
+const address = 'https://hkr-lshwsh2.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
